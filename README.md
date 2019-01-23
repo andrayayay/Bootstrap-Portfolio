@@ -1,5 +1,7 @@
 # bootstrap-portfolio
 
+Find my deployed portfolio here: https://andrayayay.github.io/bootstrap-portfolio/
+
 ### Overview
 
 In this assignment, I created two different portfolios. The first will be building
